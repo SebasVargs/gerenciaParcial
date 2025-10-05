@@ -69,7 +69,7 @@ var methods = [
                 description: "Dividir el trabajo en partes manejables",
                 story: {
                     problema: "Una constructora debía 'construir un edificio de oficinas' pero el equipo no sabía por dónde empezar. Era demasiado grande y complejo.",
-                    solucion: "Crearon un WBS dividiéndolo en: Cimientos, Estructura, Instalaciones, Acabados. Cada uno se subdividió hasta tener tareas de máximo 2 semanas.",
+                    solucion: "Crearon un WBS (Work Breakdown Structure) dividiéndolo en: Cimientos, Estructura, Instalaciones, Acabados. Cada uno se subdividió hasta tener tareas de máximo 2 semanas.",
                     resultado: "Terminaron con 250 paquetes de trabajo asignables. Cada supervisor sabía exactamente qué hacer, cuándo y con qué recursos. El proyecto se completó 2 meses antes."
                 },
                 characteristics: [
